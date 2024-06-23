@@ -1,5 +1,5 @@
 alert(
-  'Xai Vanguard \n unwa airdrop'
+  'Xai Vanguard \n'
 );
 
 function clickElement(element) {
